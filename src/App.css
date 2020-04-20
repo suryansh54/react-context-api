@@ -1,0 +1,63 @@
+.navigation {
+  background: #123456;
+}
+
+.navigation ul {
+  margin: 0;
+  color: #fff;
+  list-style: none;
+  padding: 10px;
+}
+
+.navigation ul li {
+  display: inline-block;
+  padding: 5px 10px;
+}
+
+.movie-card {
+  padding: 10px;
+  margin: 0;
+  list-style: none;
+}
+
+.movie-card li {
+  display: inline-block;
+  margin: 10px;
+  padding: 5px 10px;
+  box-shadow: 0 0 6px #c2c2c2;
+  border-radius: 4px;
+}
+
+.movie-card li div {
+  padding-bottom: 2px;
+}
+
+form {
+  margin: 20px;
+  padding: 20px;
+  background: whitesmoke;
+}
+
+form label {
+  display: block;
+  margin-bottom: 2px;
+  font-weight: 600;
+  margin-top: 5px;
+  font-size: 14px;
+}
+
+form input {
+  padding: 5px;
+  width: 250px;
+  display: block;
+  margin-bottom: 5px;
+}
+
+form button {
+  padding: 6px 10px;
+  margin-top: 5px;
+  background: #2196F3;
+  color: #fff;
+  border: 0;
+  cursor: pointer;
+}
